@@ -1,0 +1,37 @@
+{
+  "site": "teahouses",
+  "name": {
+    "zh": "茶馆",
+    "en": "Teahouses"
+  },
+  "domain": "teahouse.chapu.org",
+  "contentMode": "production",
+  "deployMode": "production",
+  "coreVersion": "1.0.0",
+  "uiVersion": "1.0.0",
+  "brandVersion": "1.0.0",
+  "generatedAt": "2026-11-25T07:14:22.738Z",
+  "pageCount": 116,
+  "kinds": {
+    "home": 2,
+    "catalog": 2,
+    "regionHub": 2,
+    "region": 42,
+    "search": 2,
+    "about": 2,
+    "contribute": 2,
+    "detail": 62
+  },
+  "entryCounts": {
+    "teahouse": {
+      "zh": 139,
+      "en": 139
+    }
+  },
+  "searchRecords": 62,
+  "issues": {
+    "errors": 0,
+    "warnings": 0,
+    "items": []
+  }
+}
