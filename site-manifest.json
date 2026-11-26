@@ -6,21 +6,21 @@
   },
   "domain": "teahouse.chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-25T08:20:54.012Z",
-  "pageCount": 116,
+  "generatedAt": "2026-11-26T00:35:23.363Z",
+  "pageCount": 178,
   "kinds": {
     "home": 2,
-    "catalog": 2,
+    "catalog": 4,
     "regionHub": 2,
-    "region": 42,
+    "region": 64,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 62
+    "detail": 100
   },
   "entryCounts": {
     "teahouse": {
@@ -28,7 +28,7 @@
       "en": 139
     }
   },
-  "searchRecords": 62,
+  "searchRecords": 100,
   "issues": {
     "errors": 0,
     "warnings": 0,
