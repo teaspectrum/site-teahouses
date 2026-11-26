@@ -6,11 +6,11 @@
   },
   "domain": "teahouse.chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T06:14:57.304Z",
+  "generatedAt": "2026-11-26T00:35:23.363Z",
   "pageCount": 178,
   "kinds": {
     "home": 2,
